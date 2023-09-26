@@ -7,4 +7,5 @@ The dataset can be easily loaded from the ``default_credit.csv`` file.
 
 ## Authors
 Dr. Raúl Guerrero
+
 Dr. Dario Lopez
